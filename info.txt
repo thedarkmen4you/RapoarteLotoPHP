@@ -1,0 +1,14 @@
+- conectare (utilizator, parola; licenta)
+
+-setari:
+   - aparate
+   - agentie
+   - marca
+   - nr borderou decont
+   - nr borderou insotitor
+   - judet
+   - localitatea
+
+- bilete (introducere si vizualizare, printare)
+- borderou decont (introducere si vizualizare, printare)
+- borderou insotitor ( posibilitate de introducere nou tip de depunere, in caz de minus sa apara pe urmatorul "diferenta 	borderou anterior")
