@@ -1,14 +1,14 @@
 # RapoarteLotoPHP
 
-Start-up:
-	1. creaza proiect laravel
-		composer create-project --prefer-dist laravel/laravel numeProiect
-	2. seteaza timezone in config/app.php
-		'timezone' => 'Europe/Bucharest',
-	3. initializare github cu director existent
-		git init  //https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
-	4. porneste serverul 
-		php artisan serve
+Start-up:<br/>
+	1. creaza proiect laravel<br/>
+		composer create-project --prefer-dist laravel/laravel numeProiect<br/>
+	2. seteaza timezone in config/app.php<br/>
+		'timezone' => 'Europe/Bucharest',<br/>
+	3. initializare github cu director existent<br/>
+		git init  //https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/<br/>
+	4. porneste serverul <br/>
+		php artisan serve<br/>
 
 	
 Login:
